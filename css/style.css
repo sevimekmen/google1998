@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 0 40px;
+}
+
+.container {
+    width: 100%;
+}
+/* 1998'de kodlanan sayfada yesil kutucuklar icin tablo yapisi kullanilmis, ben bunun yerine div ile ilerleyip class vererek ilerledim.  */
+
+.gray-box {
+    background-color: rgb(238, 238, 238);
+    height: 65px;
+    margin-bottom: 2px;
+}
+
+.box {
+    float: left;
+}
+
+.box-small {
+    width: 20%;
+}
+
+.box-medium {
+    width: 35%;
+}
+
+.box-large {
+    width: 45%;
+}
+
+.inner-box {
+    height: 70px;
+    margin-right: 2px;
+    padding-top: 5px;
+    padding-bottom: 4px;
+}
+
+.box-last .inner-box {
+    margin-right: 0;
+}
+
+.inner-box-color-1 {
+    background-color: rgb(126, 229, 218);
+}
+
+.inner-box-color-2 {
+    background-color: rgb(112, 204, 194);
+}
+
+.inner-box-color-3 {
+    background-color: rgb(98, 179, 170);
+}
+
+.box-fs {
+    font-size: small;
+}
+
+.copyright {
+    font-size: small;
+}
+

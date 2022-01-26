@@ -7,7 +7,7 @@ body {
 .container {
     width: 100%;
 }
-/* 1998'de kodlanan sayfada yesil kutucuklar icin tablo yapisi kullanilmis, ben bunun yerine div ile ilerleyip class vererek ilerledim.  */
+/* 1998'de kodlanan sayfada yesil kutucuklar icin tablo yapisi kullanilmis, ben bunun yerine div'lere class vererek ilerledim.  */
 
 .gray-box {
     background-color: rgb(238, 238, 238);
